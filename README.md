@@ -3,7 +3,7 @@
  <img width="500px" src="http://i.imgur.com/39yUYkn.png" alt="Project"></a>
 </p>
 
-<h3 align="center">Telematics</h3>
+<h3 align="center">Rhombus Telematics</h3>
 
 <div align="center">
 
