@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="http://i.imgur.com/39yUYkn.png" alt="Project"></a>
+ <img width="500px" src="http://i.imgur.com/39yUYkn.png" alt="Project"></a>
 </p>
 
 <h3 align="center">Telematics</h3>
