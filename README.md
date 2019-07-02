@@ -35,7 +35,7 @@ expo start
 ```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MySQL](https://facebook.github.io/react-native/) - Mobile Application Framework
+- [React Native](https://facebook.github.io/react-native/) - Mobile Application Framework
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - InVision
